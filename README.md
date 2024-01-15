@@ -1,10 +1,10 @@
-# F1 Management System Readme
+# Tournament Management System Readme
 
 ## Overview
-The F1 Management System is a Java console application that allows users to manage a fictional Formula 1 Championship. The system supports two roles: Manager and Team Manager. The Manager can add/delete races and teams, while the Team Manager can manage pitstop crews, drivers, and team details within a championship.
+The Tournament Management System is a Java console application that allows users to manage a fictional Tournament Championship. The system supports two roles: Manager and Team Manager. The Manager can add/delete races and teams, while the Team Manager can manage pitstop crews, drivers, and team details within a championship.
 
 ## Features
-- **Championship Management**: Create and manage F1 championships, add/delete races, and add/delete teams.
+- **Championship Management**: Create and manage Tournament championships, add/delete races, and add/delete teams.
 - **Team Management**: For Team Managers, the system supports managing pitstop crews for races, editing crew details, and adding/updating driver details.
 
 ## Structure
